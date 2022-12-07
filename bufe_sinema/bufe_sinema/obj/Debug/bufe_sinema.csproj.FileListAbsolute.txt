@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\bin\Debug\bufe_sinema.exe.config
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\bin\Debug\bufe_sinema.exe
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\bin\Debug\bufe_sinema.pdb
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\obj\Debug\bufe_sinema.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\obj\Debug\bufe_sinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\obj\Debug\bufe_sinema.Form1.resources
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\obj\Debug\bufe_sinema.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\obj\Debug\bufe_sinema.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\obj\Debug\bufe_sinema.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\obj\Debug\bufe_sinema.exe
+C:\Users\Lenovo\Desktop\udemy\bufe_sinema\bufe_sinema\obj\Debug\bufe_sinema.pdb
