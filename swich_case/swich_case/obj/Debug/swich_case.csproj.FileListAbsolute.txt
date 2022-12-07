@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\bin\Debug\swich_case.exe.config
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\bin\Debug\swich_case.exe
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\bin\Debug\swich_case.pdb
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\obj\Debug\swich_case.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\obj\Debug\swich_case.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\obj\Debug\swich_case.Form1.resources
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\obj\Debug\swich_case.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\obj\Debug\swich_case.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\obj\Debug\swich_case.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\obj\Debug\swich_case.exe
+C:\Users\Lenovo\Desktop\udemy\swich_case\swich_case\obj\Debug\swich_case.pdb
