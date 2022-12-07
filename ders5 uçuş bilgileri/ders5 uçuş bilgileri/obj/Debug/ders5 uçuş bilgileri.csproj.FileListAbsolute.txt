@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\bin\Debug\ders5 uçuş bilgileri.exe.config
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\bin\Debug\ders5 uçuş bilgileri.exe
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\bin\Debug\ders5 uçuş bilgileri.pdb
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\obj\Debug\ders5 uçuş bilgileri.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\obj\Debug\ders5 uçuş bilgileri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\obj\Debug\ders5_uçuş_bilgileri.Form1.resources
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\obj\Debug\ders5_uçuş_bilgileri.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\obj\Debug\ders5 uçuş bilgileri.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\obj\Debug\ders5 uçuş bilgileri.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\obj\Debug\ders5 uçuş bilgileri.exe
+C:\Users\Lenovo\Desktop\udemy\ders5 uçuş bilgileri\ders5 uçuş bilgileri\obj\Debug\ders5 uçuş bilgileri.pdb
